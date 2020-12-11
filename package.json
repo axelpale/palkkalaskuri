@@ -1,0 +1,24 @@
+{
+  "name": "palkkalaskuri",
+  "version": "1.0.0",
+  "description": "Finnish salary calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelpale/palkkalaskuri.git"
+  },
+  "keywords": [
+    "salary",
+    "palkka",
+    "suomi"
+  ],
+  "author": "Akseli Palén <akseli.palen@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/axelpale/palkkalaskuri/issues"
+  },
+  "homepage": "https://github.com/axelpale/palkkalaskuri#readme"
+}
