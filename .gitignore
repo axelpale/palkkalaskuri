@@ -1,4 +1,5 @@
 ### Put project specific ignores here. ###
+package-lock.json
 
 ### Put general ignores below. ###
 
