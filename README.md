@@ -8,6 +8,10 @@ Motivaatio: Yhteiskunnan tehostaminen. Tehdään laeista ja säädöksistä yksi
 
 
 
+## Lähteet
+
+[opinahjo.fi, 2018. Palkanlaskennan perusteet, Henkilösivukulut. PDF](http://opinahjo.fi/wp-content/uploads/2018/09/20180828-Palkanlaskennan-perusteet-Henkil%C3%B6sivukulut.pdf)
+
 ## Vastuuvapauslauseke
 
 Tämä on ilmainen, avoin ja vapaaehtoistyöllä tehty ohjelma. Emme pysty varmuudella takaamaan ohjelman oikeellisuutta. Näin ollen ohjelman toiminnallisuus tarjotaan käyttöön ilman takuuta oikeellisuudesta tai sopivuudesta mihinkään käyttötarkoitukseen.
